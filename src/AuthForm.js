@@ -54,3 +54,11 @@ function AuthForm() {
 }
 
 export default AuthForm;
+
+
+
+
+// How to run this 
+// open terminal 
+// got commond prompt
+// then npm run dev 
